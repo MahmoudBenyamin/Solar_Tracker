@@ -1,0 +1,8 @@
+../Src/NVIC_prog.c:13:6:MNVIC_vEnableINT	0	static
+../Src/NVIC_prog.c:39:6:MNVIC_vDisableINT	0	static
+../Src/NVIC_prog.c:60:6:MNVIC_vSetPendingFlag	0	static
+../Src/NVIC_prog.c:82:6:MNVIC_vClearPendingFlag	0	static
+../Src/NVIC_prog.c:104:4:MNVIC_u8GetActiveFlag	0	static
+../Src/NVIC_prog.c:127:6:MNVIC_VidSetPriority	8	static
+../Src/NVIC_prog.c:153:6:MNVIC_VEnablePeripheral	0	static
+../Src/NVIC_prog.c:158:6:MNVIC_VDisablePeripheral	0	static

@@ -1,0 +1,2 @@
+../Src/SunCalc.c:31:5:SunCalc_u32SunriseTime	8	static
+../Src/SunCalc.c:57:5:SunCalc_u32SunsetTime	8	static
