@@ -1,0 +1,8 @@
+../Src/ADC_prog.c:34:6:MADC_vInit	0	static
+../Src/ADC_prog.c:94:6:MADC_vEnable	0	static
+../Src/ADC_prog.c:99:6:MADC_vStartConversion	0	static
+../Src/ADC_prog.c:105:5:MADC_u16GetValue	0	static
+../Src/ADC_prog.c:113:6:MADC_vGetArray	8	static
+../Src/ADC_prog.c:119:6:MADC_vJGetArray	32	static
+../Src/ADC_prog.c:127:6:MADC_vStopADC	0	static
+../Src/ADC_prog.c:134:6:ADC1_IRQHandler	0	static

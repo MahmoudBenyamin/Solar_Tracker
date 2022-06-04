@@ -1,0 +1,10 @@
+../Src/ECU.c:40:6:ECU_start	4	static
+../Src/ECU.c:44:6:SysInit	8	static
+../Src/ECU.c:70:6:SetPins	16	static
+../Src/ECU.c:90:6:BlinkPin	16	static
+../Src/ECU.c:97:6:EnableFPU	4	static,ignoring_inline_asm
+../Src/ECU.c:112:6:ECU_vCompareLDR	8	static
+../Src/ECU.c:146:6:TIM2_vFunc	8	static
+../Src/ECU.c:153:6:TIM3_vFunc	8	static
+../Src/ECU.c:157:6:TIM5_vFunc	8	static
+../Src/ECU.c:172:6:setCallBacks	8	static

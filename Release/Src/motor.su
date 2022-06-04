@@ -1,0 +1,2 @@
+../Src/motor.c:11:6:MOTOR_vSetXPostion	8	static
+../Src/motor.c:49:6:MOTOR_vSetYPostion	8	static
